@@ -37,3 +37,8 @@ border: 1px solid lightgrey;
     align-items: center;
 
 }
+
+p{
+    align-items: center;
+    text-align: center;
+}
